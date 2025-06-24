@@ -1,5 +1,3 @@
-let professores = [
-    {id: 1, nome: 'jose', materia: 'Português'}
-];
+let professores = [];
 
 export default professores;
